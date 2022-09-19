@@ -2,7 +2,7 @@ import pyautogui
 import time
 # This code has the purpose of checking into byppo every two hours 
 # in order to get the maximum amount of check-ins possible in a day
-
+# Hope this works
 print(pyautogui.size());
 
 #mouse position for checkin = 258, 378
